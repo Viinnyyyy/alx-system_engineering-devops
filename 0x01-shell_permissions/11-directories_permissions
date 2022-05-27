@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 866 .
+chmod -r 755 .
