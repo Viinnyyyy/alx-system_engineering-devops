@@ -1,2 +1,11 @@
 #!/bin/bash
-ls -lt | head
+drwxr-xr-x 2 root root 293 May 31 03:37 .
+drwxr-xr-x 6 root root 121 May 30 12:08 ..
+-rw-r--r-- 1 root root   7 May 30 10:54 README.md
+-rwxr--r-- 1 root root  26 May 31 03:37 12-newest_files
+-rwxr--r-- 1 root root  27 May 30 19:31 11-directories
+-rwxr--r-- 1 root root  28 May 30 12:30 2-hellofile
+-rwxr--r-- 1 root root  29 May 30 12:54 4-lastlines
+-rwxr--r-- 1 root root  29 May 30 12:58 5-firstlines
+-rwxr--r-- 1 root root  29 May 30 18:32 1-confused_smiley
+-rwxr--r-- 1 root root  30 May 30 11:37 0-hello_world
