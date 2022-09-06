@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./ -type 'f' "*.gif" | sort -S | sort --ignore-case | ls -1
